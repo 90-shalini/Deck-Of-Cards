@@ -6,6 +6,7 @@ sys.path.extend([path])
 from deck_of_cards.card import Card
 from deck_of_cards.deck import Deck
 
+#trying card combinations
 # c = Card('A', 'Spades')
 # c1 = Card('K', 'Hearts')
 # c2 = Card('3', 'Diamonds')
